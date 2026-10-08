@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai1_TinhCuocDichVu\bin\Debug\Bai1_TinhCuocDichVu.exe.config
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai1_TinhCuocDichVu\bin\Debug\Bai1_TinhCuocDichVu.exe
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai1_TinhCuocDichVu\bin\Debug\Bai1_TinhCuocDichVu.pdb
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai1_TinhCuocDichVu\obj\Debug\Bai1_TinhCuocDichVu.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai1_TinhCuocDichVu\obj\Debug\Bai1_TinhCuocDichVu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai1_TinhCuocDichVu\obj\Debug\Bai1_TinhCuocDichVu.exe
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai1_TinhCuocDichVu\obj\Debug\Bai1_TinhCuocDichVu.pdb

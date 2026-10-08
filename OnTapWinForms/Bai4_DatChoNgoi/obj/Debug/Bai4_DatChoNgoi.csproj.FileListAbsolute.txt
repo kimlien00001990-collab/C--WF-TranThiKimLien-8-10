@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai4_DatChoNgoi\bin\Debug\Bai4_DatChoNgoi.exe.config
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai4_DatChoNgoi\bin\Debug\Bai4_DatChoNgoi.exe
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai4_DatChoNgoi\bin\Debug\Bai4_DatChoNgoi.pdb
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai4_DatChoNgoi\obj\Debug\Bai4_DatChoNgoi.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai4_DatChoNgoi\obj\Debug\Bai4_DatChoNgoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai4_DatChoNgoi\obj\Debug\Bai4_DatChoNgoi.exe
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai4_DatChoNgoi\obj\Debug\Bai4_DatChoNgoi.pdb

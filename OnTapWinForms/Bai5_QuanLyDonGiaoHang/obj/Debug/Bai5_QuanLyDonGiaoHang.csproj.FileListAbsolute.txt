@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai5_QuanLyDonGiaoHang\bin\Debug\Bai5_QuanLyDonGiaoHang.exe.config
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai5_QuanLyDonGiaoHang\bin\Debug\Bai5_QuanLyDonGiaoHang.exe
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai5_QuanLyDonGiaoHang\bin\Debug\Bai5_QuanLyDonGiaoHang.pdb
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai5_QuanLyDonGiaoHang\obj\Debug\Bai5_QuanLyDonGiaoHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai5_QuanLyDonGiaoHang\obj\Debug\Bai5_QuanLyDonGiaoHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai5_QuanLyDonGiaoHang\obj\Debug\Bai5_QuanLyDonGiaoHang.exe
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai5_QuanLyDonGiaoHang\obj\Debug\Bai5_QuanLyDonGiaoHang.pdb

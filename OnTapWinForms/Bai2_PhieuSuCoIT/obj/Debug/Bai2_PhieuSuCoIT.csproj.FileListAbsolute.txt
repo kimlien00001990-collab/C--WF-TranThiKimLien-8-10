@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai2_PhieuSuCoIT\bin\Debug\Bai2_PhieuSuCoIT.exe.config
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai2_PhieuSuCoIT\bin\Debug\Bai2_PhieuSuCoIT.exe
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai2_PhieuSuCoIT\bin\Debug\Bai2_PhieuSuCoIT.pdb
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai2_PhieuSuCoIT\obj\Debug\Bai2_PhieuSuCoIT.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai2_PhieuSuCoIT\obj\Debug\Bai2_PhieuSuCoIT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai2_PhieuSuCoIT\obj\Debug\Bai2_PhieuSuCoIT.exe
+C:\Users\Admin\Downloads\OnTapWinForms (1)\Bai2_PhieuSuCoIT\obj\Debug\Bai2_PhieuSuCoIT.pdb
